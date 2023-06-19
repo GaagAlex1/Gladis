@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 3920fe2dd2ea39c4e9e724c72d2c6f26
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Romas
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: b7c23e09139f34948b2e4927d62d26e8, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
