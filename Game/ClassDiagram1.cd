@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Creature">
+    <Position X="2.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAACAwAAAAAAAAAAAAAAAAAAIAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Base\Creature.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="State">
+    <Position X="5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQABAAAAAAAAAAAAAAAAAAAAAEAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Base\State.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Player" Collapsed="true">
+    <Position X="4" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQCAAAADKAAAACAAAAAYAAAKAAAAQAAAAAEACIQBAA=</HashCode>
+      <FileName>Assets\Scripts\PlayerScripts\Player.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Snake" Collapsed="true">
+    <Position X="4" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAgAAGAAAAABAAAAAAAAAAAAAQAAAAAAAAIAAAA=</HashCode>
+      <FileName>Assets\Scripts\SnakeStates\Snake.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Zombie" Collapsed="true">
+    <Position X="4" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAgADiAAAACAAAAAIAAAAAAAAQAAAAAAACIQAAA=</HashCode>
+      <FileName>Assets\Scripts\ZombieStates\Zombie.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlayerState" Collapsed="true">
+    <Position X="7" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAAAAAAQgAAAAAAABABAAQAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\PlayerStates\PlayerState.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ZombieState" Collapsed="true">
+    <Position X="7" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAI=</HashCode>
+      <FileName>Assets\Scripts\ZombieStates\ZombieState.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SnakeState" Collapsed="true">
+    <Position X="7" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAAAAAAAAAAAAAAAAAACAQAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\SnakeStates\SnakeState.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SnakeEventHandler" Collapsed="true">
+    <Position X="10" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAABAAAAQAAAAAAAAAABAAAAAAAACAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\SnakeStates\SnakeEventHandler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BasicEnemyEventHandler" Collapsed="true">
+    <Position X="9" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAABAAEAICAAAAAAAAAAAABCAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Base\BasicEventHandler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StateMachine">
+    <Position X="0.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABQAAIAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Base\StateMachine.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ZombieEventHandler" Collapsed="true">
+    <Position X="10" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQAQAAAAAAAAACAAAAAAAAAIAACAAAA=</HashCode>
+      <FileName>Assets\Scripts\ZombieStates\ZombieEventHandler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlayerInputHandler" Collapsed="true">
+    <Position X="0.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAABAAAAABIBAAAA0AABACAgAQDBAAACAAEAACA=</HashCode>
+      <FileName>Assets\Scripts\PlayerStates\PlayerInputHandler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
